@@ -4,7 +4,7 @@ Gatekeeper for model quality, production guardrails, trust, bias, risk, and anom
  README. Scanned on 2025-11-06 18:08._
 
 ## Overview
-# Case Study : Customer Loan Purchase Prediction
+# Models for Customer Loan Purchase Prediction
 
 This case study will help us to understand the stages in the AI/ML project lifecycle with loans data set to predict whether potential customer's will be targeted for loans. We will focus on the following stages namely -
 
@@ -14,7 +14,7 @@ This case study will help us to understand the stages in the AI/ML project lifec
 - Machine learning classification model.
 - Build and evaluate classification models.
 - Provide insights based on the model's performance.
-
+Models' performance and validation with the test dataset
 #1. Import Libraries/Dataset
 
   a.  Download the dataset.
@@ -55,7 +55,7 @@ This case study will help us to understand the stages in the AI/ML project lifec
 ```
 
 ## Data
-ata/file paths:
+Data/file paths:
 
 - `/content/Customer_Financial_Info.csv`
 
